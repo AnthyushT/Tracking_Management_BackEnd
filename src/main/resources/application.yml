@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://anthyush:sqmqaq07@anthyush.2puwmus.mongodb.net/?retryWrites=true&w=majority
+      database: Users
